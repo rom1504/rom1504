@@ -5,10 +5,10 @@ My long term objective is to create artificially intelligent software.
 I'm currently working as a machine learning engineer, building representation learning software for recommender systems.
 
 On my free time, I have two main activities related to computer science:
-* exploring machine learning and writing blogpost about it
+* exploring machine learning and writing blog posts about it
 * maintaining and leading the PrismarineJS community to build packages for minecraft in javascript
 
-Blog posts I written and projects I'm working on are listed below.
+Blog posts I've written and projects I'm working on are listed below.
 
 #### 🗒 Medium posts
 
