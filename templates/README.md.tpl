@@ -5,11 +5,6 @@
 - [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔗 Links
 
 [<img src="assets/Website.png" alt="Website" width="40" height="40">](http://rom1504.fr/)
