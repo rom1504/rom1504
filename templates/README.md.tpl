@@ -10,11 +10,6 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
 #### 🔗 Links
 
 [<img src="assets/Website.png" alt="Website" width="40" height="40">](http://rom1504.fr/)
