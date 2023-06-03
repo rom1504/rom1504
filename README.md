@@ -8,8 +8,6 @@ Recent work:
 * Laion5B and OpenClip in open source ML
 * Mineflayer and PrismarineJS in open source javascript
 
-Blog posts I've written and projects I'm working on are listed below.
-
 #### 🗒 Blog posts
 
 - [Semantic search at billions scale](https://rom1504.medium.com/semantic-search-at-billions-scale-95f21695689a)
