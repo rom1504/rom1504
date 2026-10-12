@@ -3,6 +3,7 @@ Hi, I'm Romain Beaumont aka rom1504. I build and deploy ML infra to solve import
 
 Recent work:
 
+* Video Understanding at Gemini (Google Deepmind)
 * LLMs at YouTube
 * KNNs at Criteo
 * Laion5B and OpenClip in open source ML
